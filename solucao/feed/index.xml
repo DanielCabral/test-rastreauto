@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Solução &#8211; Rastreauto</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Rastreamento e Telemetria</description>
+	<lastBuildDate>Wed, 24 Aug 2022 02:43:26 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../wp-content/uploads/2022/08/cropped-android-chrome-512x512-2-32x32.png</url>
+	<title>Solução &#8211; Rastreauto</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Telemetria</title>
+		<link>./../telemetria/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 06:16:24 +0000</pubDate>
+				<guid isPermaLink="false">https://dev.rastreauto.com.br/service/it-management-copy-8/</guid>
+
+					<description><![CDATA[Sistema de Telemetria Veicular Um sistema embarcado que realiza: – Medição de variáveis de ambiente automotivo – Detecção e registro e alarmes – Transmissão de informações para monitoramento remoto FUNCIONALIDADES: Telemetria Relacionada a Aspectos de Dirigibilidade (Versão Full): Identificação do Motorista por Ibutton. Freada brusca Arrancada brusca. Curva com aceleração tangencial excessiva. Arrancada forçada. Movimento [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="412" class="elementor elementor-412">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-ae24c2d elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="ae24c2d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ba7d1ea" data-id="ba7d1ea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-db78859 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="db78859" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style3">
+	<div class="sec-title-holder">
+				<span class="sub-title hide fadeInUp" data-wow-delay="1s" data-wow-duration="1s">Sistema de Telemetria Veicular</span>
+				<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s"></h2>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-504b211 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="504b211" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Um sistema embarcado que realiza:
+<br />
+– Medição de variáveis de ambiente automotivo <br>
+– Detecção e registro e alarmes <br>
+– Transmissão de informações para monitoramento remoto <br></div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3e329d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="3e329d7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-385dd65" data-id="385dd65" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24ed3a4 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="24ed3a4" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">FUNCIONALIDADES:</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-e5da5bf elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="e5da5bf" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Telemetria Relacionada a Aspectos de Dirigibilidade (Versão Full):
+</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-59ccd75 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="59ccd75" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d69869c" data-id="d69869c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-506f9ed elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-invisible elementor-widget elementor-widget-icon-list" data-id="506f9ed" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://dev.rastreauto.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Identificação do Motorista por Ibutton.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Freada brusca</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Arrancada brusca.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Curva com aceleração tangencial excessiva.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Arrancada forçada.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Movimento do veículo com porta aberta</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Motor acima da rotação permitida em movimento plano</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Motor acima da rotação permitida na subida</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Quilometragem rodada dentro da Faixa Verde</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Quilometragem rodada fora da Faixa Verde</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Alarme de Permanência de rotação fora da fora da faixa verde no plano</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Alarme de Permanência de rotação fora da fora da faixa verde na Subida</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Motor em funcionamento ocioso por mais de 5 minutos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Veículo acima da velocidade permitida em movimento plano</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e33e486" data-id="e33e486" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-37cfcd0 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-invisible elementor-widget elementor-widget-icon-list" data-id="37cfcd0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInRight&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Veículo acima da velocidade permitida na chuva</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Banguela</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Número de acionamento da Embreagem</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Número de acionamento do Freio</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Tempo de permanência com o pé na embreagem</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Inibidor de partida do veículo via Ibutton com ou sem consulta na central de rastreamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Horímetro de Motor</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Painel de alarme de aviso ao motorista antes do registro dos eventos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Painel de aviso ao motorista do limite máximo permitido dos parâmetros operacionais do veículo</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Buzzer de aviso de envio de excessos cometidos para a central de rastreamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Avisos, alarmes e eventos totalmente configuráveis</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4a29273 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="4a29273" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-794a1ee" data-id="794a1ee" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-133fe24 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="133fe24" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Características Técnicas</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fccbe95 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="fccbe95" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-66405a1" data-id="66405a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e08d76e animated-fast elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-invisible elementor-widget elementor-widget-icon-list" data-id="e08d76e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Receptor GPS 32 canais de alta sensibilidade (-160 dBm monitoramento, -144 dBm aquisição);</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Antena interna de GPS ativa;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Porta USB 2.0 de alta velocidade para atualização e configuração do firmware;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Consumo em stand by - 1.5 mA@3.8VDC;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">RTC (Relógio de Tempo Real);</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Modem Quad-Band (850/900/1800/1900 Mhz) GSM/GPRS/EDGE;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Bateria interna de 1850 mAH;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Dimensões da bateria: 34 mm x 52 mm x 11 mm - Peso: 20 g;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Rápido carregamento com suporte via USB (800 mA);</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Acelerômetro de 3 eixos;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">TCP (Protocolo de Controle de Transporte) e UDP (Protocolo de Datagramas do Usuário) para comunicação;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text"> Peso: 105 g com bateria (115 g com suporte / presilha);</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Carregador bivolt - tempo de carga: 3 h;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Configurável através de parâmetros via GPRS e USB;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Atualização de Firmware via GPRS e USB;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Registro em memória de até 10.000 posições;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Segurança para o cartão SIM;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">À prova de água e poeira (IP67);</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Sensor de temperatura;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Sensor e circuito de carga para bateria;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Temperatura de operação: -40º C a +85º C;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Dimensões: 58 mm x 94 mm x 26 mm.</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f08c54b elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="f08c54b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17ad0bc" data-id="17ad0bc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c3dff0d elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="c3dff0d" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Entre em <a href="/contato">contato conosco</a> e saiba mais!!</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1f80c78 elementor-widget elementor-widget-image" data-id="1f80c78" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="188" height="117" src="./../../wp-content/uploads/2021/06/200125938009.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rastreamento</title>
+		<link>./../rastreamento/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 06:16:21 +0000</pubDate>
+				<guid isPermaLink="false">https://dev.rastreauto.com.br/service/it-management-copy-7/</guid>
+
+					<description><![CDATA[SISTEMA DE RASTREAMENTO E MONITORAMENTO Sistema para todos os tipos de veículos, de pequeno, médio e grande porte. Funcionalidades do sistema de rastreamento rastreauto Nosso sistema possui uma interface simples e fácil de ser manuseada, com atualizações a cada um minuto, ou até menos de acordo com solicitação do cliente. Com o sistema de rastreamento [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="411" class="elementor elementor-411">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-715eaaf1 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="715eaaf1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e323fd" data-id="4e323fd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-da710df elementor-invisible elementor-widget elementor-widget-rt-title" data-id="da710df" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style3">
+	<div class="sec-title-holder">
+				<span class="sub-title hide fadeInUp" data-wow-delay="1s" data-wow-duration="1s">SISTEMA DE RASTREAMENTO E MONITORAMENTO</span>
+				<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Sistema para todos os tipos de veículos, de pequeno, médio e grande porte.</h2>
+	</div>
+</div>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f254edb elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="f254edb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-603e000" data-id="603e000" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-54b63b7 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="54b63b7" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Funcionalidades do sistema de rastreamento rastreauto</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-601f64a elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="601f64a" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Nosso sistema possui uma interface simples e fácil de ser manuseada, com atualizações a cada um minuto, ou até menos de acordo com solicitação do cliente. Com o sistema de rastreamento RASTREAUTO o cliente fica com total controle dos seus veículos e dispõe de um completo menu de relatórios, com os mais derivados filtros por meses, dias, horas, minutos e vários outros, que ficam à disposição até 2 anos para consulta, impressão e download.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b0553c elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="4b0553c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42f9731" data-id="42f9731" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9a910d2 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="9a910d2" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Criação e utilização de rotas</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-e501f27 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="e501f27" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Rotas cadastradas pelos usuários; <br />
+Cadastro realizado manualmente, colocando-se pontos pré-cadastrados na sequencia desejada, ou através de ferramentas gráficas de criação de rotas dentro dos próprios mapas;<br />
+Criação de cercas eletrônicas. Trata-se de uma raio de distãncia o qual o veículo não pode se afastar.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-131e5f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="131e5f7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-baef072" data-id="baef072" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b50faa3 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="b50faa3" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Controle em tempo real</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-fa3359e elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="fa3359e" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Monitoramento da frota em tempo real com atualizações a cada 2 minutos, utilizando telas de mapas;<br>
+Utilização de cerca eletrônica de acordo com rotas pré-definidas pelo cliente/usuário;<br>
+Restrição de área de atuação do veículo;<br>
+Possibilidade de armazenamento de até 30000 posições;
+Controle automático de ações em pontos pré-definidos;<br>
+Cadastramento de pontos para tomadas automáticas de ações.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-49b77a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="49b77a2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9706511" data-id="9706511" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3de401c elementor-invisible elementor-widget elementor-widget-rt-title" data-id="3de401c" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Planejamento Operacional</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-d00882f elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="d00882f" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Administração de quantidade de veículos por rota/área de atuação; <br>
+Controle automático de ações em pontos pré-definidos;<br>
+Manutenção preventiva, com base em informações obtidas do veículo.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f15e107 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="f15e107" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e629b8" data-id="3e629b8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c740181 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="c740181" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Segurança e serviço</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-878be8f elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="878be8f" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Veículo monitorado via satélite em tempo real, com sistema de segurança e acionamento de emergência;<br>
+Alerta enviado diretamente pera central de monitoramento e/ou central de segurança;<br>
+Monitoramento de tempo de chegada em pontos pré-determinados;<br>
+Envio de alertas no caso do veículo sair das regiões estipuladas.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a205b86 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="a205b86" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c886ce8" data-id="c886ce8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b9408a elementor-invisible elementor-widget elementor-widget-rt-title" data-id="3b9408a" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Opções de monitoramento e controle</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-9d1536d elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="9d1536d" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Por mapas, com visualizações de um ou mais veículos, obtendo a localização gráfica e exata dos mesmos;<br>
+Por grid de informações, mostrando todas as informações coletadas pelo módulo;<br>
+Retroativo, por meio de consulta a relatórios diversos, por exibição no mapa de percurso realizado ou da situação dos veículos em determinada data/hora.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-75e86ea elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="75e86ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fd3621a" data-id="fd3621a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e1371ed elementor-invisible elementor-widget elementor-widget-rt-title" data-id="e1371ed" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">GESTÃO E GERENCIAMENTO DE FROTAS</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-0533e0f elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="0533e0f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>CADASTRO DE MOTORISTAS</b> - Cadastro para vinculação do motorista à guia de abastecimento;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>CADASTRO DE GUIAS DE ABASTECIMENTO (COMBUSTÍVEL)</b> - Essa função possibilita o cliente controlar o abastecimento dos seus veículos calculando a média de consumo do veículo a cada abastecimento;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>GESTÃO DE FROTA </b>- Essa função possibilita o cliente cadastrar eventos e ser alertado sobre esses eventos (troca de óleo, troca de peças, rodízios de pneus, etc.);</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>VEÍCULOS </b>- Permite que o cliente vincule e altere os eventos do Gestão de Frota para cada veículo;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>CONTROLE DE VELOCIDADE</b> - Permite que o cliente cadastre velocidades máxima para cada veículo, e obtenha em tempo real, através do sistema o excesso dessa velocidade cadastrada;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>CADASTRO DE OCORRÊNCIAS </b>- O cliente vincula cada veículo a uma determinada ocorrência, e depois poderá finalizar essa ocorrência para liberar o veículo;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>CADASTRO DE ÁREAS</b> - O cliente poderá cadastrar áreas de deslocamento em um determinado local no mapa e associar aos veículos, para verificar se eles estão se deslocando para lugares não autorizados.</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c3b3ed4 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="c3b3ed4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ab4b452" data-id="ab4b452" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2a949a8 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="2a949a8" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Novos Relatórios:</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-1e0f293 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1e0f293" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>RELATÓRIO DE ABASTECIMENTO</b></span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>RELATÓRIO DE GESTÃO DE FROTA </b></span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>RELATÓRIO DE OCORRÊNCIAS </b></span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>RELATÓRIO DE FUGA DE ÁREAS</b></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-84305d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="84305d1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-00aaeb0" data-id="00aaeb0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4fa1659 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="4fa1659" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Aplicabilidade e retorno com a solução Rastreauto</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-a736b3d elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="a736b3d" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Aquisição de uma solução em gestão de frota;<br>
+Economia, rentabilidade e rápido retorno do investimento.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7626e06 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="7626e06" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-750ad53" data-id="750ad53" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b9bcf77 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="b9bcf77" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">Porque sua empresa precisa de uma solução de gerenciamento de frota?</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-ef3261f elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="ef3261f" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>1 </b>- Retorno imediato com melhor produtividade de ativos e pessoal, possibilitando alavancagem de aproximadamente 20% na receita mensal (através de controles e significativa redução de custo).</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0c387a1 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="0c387a1" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>2 </b>- Controle eficiente com o uso de relatorio gerenciais possibilitando o aumento de receita mensal e consequentemente anual, sendo eles:</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e814ba0 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="e814ba0" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Relatório de controle de velocidade; <br>
+Relatório de status da ignição (paradas); <br>
+Relatório de tempo parado com o motor ligado; <br>
+Relatório de posições dos veículos com sua devida localização;<br>
+Relatório de funcionamento de sensores/atuadores (Ar condicionado, tanque de combutível, portas, etc.);<br>
+Relatório de deslocamento com visualização da cada posição no mapa; <br>
+Relatório de distância percorrida; <br>
+Relatório de jornada de trabalho e status do veículo; <br>
+Relatório de horas/km, entre outros. <br></div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2b05818 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="2b05818" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>3 </b>- Evitar os pontos cegos (quando isso acontece o equipamento armazena até 8 horas de dados, que serão descarregados a té a próxima atualização) da gestão de ativos móveis, tais como:</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0ec016c elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="0ec016c" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Localização em tempo real; <br>
+“Status” do veículo em tempo real; <br>
+Alteração de itinerário e/ou rota em tempo hábil; <br>
+Aumento de produtividade; <br>
+Aumento da vida útil do ativo móvel; <br>
+Cria um equipe de trabalho mais honesta; <br>
+Reduz a quantidade de roubos; etc.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gestão de Frotas</title>
+		<link>./../gestao-de-frotas/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 06:16:17 +0000</pubDate>
+				<guid isPermaLink="false">https://dev.rastreauto.com.br/service/it-management-copy-6/</guid>
+
+					<description><![CDATA[Sistema de Gestão de Frotas RASTREAUTO / CRITERION Nosso propósito é oferecer-lhe um equipamento que dará segurança com 100% de controle sobre seus veículos frota e ao mesmo tempo eliminar os gargalos no consumo de combustíveis. Sabemos que a cada ano há grandes ajustes na economia e liberação no controle de preços públicos, principalmente dos [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="410" class="elementor elementor-410">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-c68f7b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="c68f7b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-512c79c" data-id="512c79c" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ac7136f elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="ac7136f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0678860" data-id="0678860" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-eeff7c8 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="eeff7c8" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style3">
+	<div class="sec-title-holder">
+				<span class="sub-title hide fadeInUp" data-wow-delay="1s" data-wow-duration="1s">Sistema de Gestão de Frotas RASTREAUTO / CRITERION</span>
+				<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s"></h2>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-e56a0e1 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="e56a0e1" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Nosso propósito é oferecer-lhe um equipamento que dará segurança com 100% de controle sobre seus veículos frota e ao mesmo tempo eliminar os gargalos no consumo de combustíveis.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dcaaec1 elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="dcaaec1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-017e2ec" data-id="017e2ec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2ed9857 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="2ed9857" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Sabemos que a cada ano há grandes ajustes na economia e liberação no controle de preços públicos, principalmente dos combustíveis. Visando compensar as previsões desanimadoras e para operar sua frota de forma rentável, para manter os baixos custos com combustível, é necessário identificar e corrigir uma das principais razões para o alto consumo de combustível: o deficiente comportamento dos condutores.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-13a722a elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="13a722a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ecad9a" data-id="1ecad9a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0750a81 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="0750a81" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text">Agora, mais do que nunca, um sistema de controle de gestão eficiente e em tempo real evitará roubos, desvios e adulterações de combustíveis durante trajetos ou no momento do abastecimento, fator que impacta diretamente nos seguintes custos:</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b9b69f elementor-section-boxed elementor-section-height-default elementor-section-height-default rt-parallax-bg-no" data-id="4b9b69f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-def83a1" data-id="def83a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bd23e85 elementor-invisible elementor-widget elementor-widget-rt-title" data-id="bd23e85" data-element_type="widget" data-widget_type="rt-title.default">
+				<div class="elementor-widget-container">
+			<div class="sec-title style1">
+	<div class="sec-title-holder">		
+						<h2 class="rtin-title hide fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">O que esperamos que o sistema forneça a nossos clientes:</h2>
+				<div class="hide fadeInUp" data-wow-delay="1.4s" data-wow-duration="1s">
+			<span class="section-line section-line-one"></span>
+			<span class="section-line section-line-two"></span>
+			<span class="section-line section-line-three"></span>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-cad4395 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="cad4395" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>1 </b>-  Controle patrimonial.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0c3734f elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="0c3734f" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>2 </b>- 4 (Quatro) possibilidades de agrupamento da frota para melhorar a análise dos resultados.
+</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-36b134f elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="36b134f" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>3 </b>- 03 (Três) campos para agrupamento de localização ou centro de custo.
+</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-de60183 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="de60183" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>4 </b>- Acompanhamento dos licenciamentos dos veículos</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2d8d420 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="2d8d420" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>5 </b>- Cadastro completo dos equipamentos e seus planos de manutenção, com geração automática das chamadas OP (Ordens Preventivas – Lista de tarefas pertencentes ao plano de manutenção). Geração automática dos pedidos de materiais das OP.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ef9eb18 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="ef9eb18" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>6 </b>-  Módulo de pedidos de compras e cotação integrados</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-875b71b elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="875b71b" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>7 </b>-  Módulo de controle de estoque.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-64dec7f elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="64dec7f" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>8 </b>-  Diversas consultas e relatórios gerenciais, tais como relação de equipamentos, relação de emplacamentos, etc.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c372792 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="c372792" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>9 </b>-  Integração com o sistema de rastreamento. O sistema recebe diretamente dos rastreadores as horas rodadas e alimenta os horímetros das máquinas cadastradas, fazendo com que as respectivas OP´s e seus pedidos de materiais sejam criados automaticamente.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9b9c038 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="9b9c038" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>10 </b>-  Registros de Ocorrências</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cca903b elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="cca903b" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>11 </b>-  Controle de disponibilidade mecânica com espaço para cadastro de defeitos para utilização em manutenção pro-ativa.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7a5e25d elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="7a5e25d" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>12 </b>-  Controle de abastecimentos (em breve com integração on-line, assim que o veículo abastecer essa informação é enviada imediatamente para o sistema).
+</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4adc917 elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="4adc917" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>13 </b>-  Tabela para cadastro de comunicações internas.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e0a559c elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="e0a559c" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>14 </b>-  Cadastro de problemas apresentados nos equipamentos que posteriormente podem ser transformadas em OS – (Ordem de Serviços) permitindo uma redução e programação das paradas dos equipamentos, chamamos de Manutenção Eventual.
+</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-affb3cb elementor-invisible elementor-widget elementor-widget-rt-info-box" data-id="affb3cb" data-element_type="widget" data-widget_type="rt-info-box.default">
+				<div class="elementor-widget-container">
+			<div class="info-box info-style3 wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s">
+	<div class="rtin-item media">
+				<div class="media-body">
+						<div class="rtin-text"><b>15 </b>-  Em breve teremos os módulos de Depreciação, acompanhamento de medições de material rodante, Resumo de utilização, Geração de Nota de Aluguel.</div>
+								</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

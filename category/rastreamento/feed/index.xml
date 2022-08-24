@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rastreamento &#8211; Rastreauto</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Rastreamento e Telemetria</description>
+	<lastBuildDate>Sat, 20 Aug 2022 15:48:11 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/08/cropped-android-chrome-512x512-2-32x32.png</url>
+	<title>Rastreamento &#8211; Rastreauto</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Qual a importância do monitoramento e rastreamento</title>
+		<link>./../../../qual-a-importancia-do-monitoramento-e-rastreamento/index.html</link>
+					<comments>./../../../qual-a-importancia-do-monitoramento-e-rastreamento/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2021 05:56:15 +0000</pubDate>
+				<category><![CDATA[Rastreamento]]></category>
+		<guid isPermaLink="false">https://dev.rastreauto.com.br/2021/06/09/open-source-job-report-show-more-openings-fewer-copy-10/</guid>
+
+					<description><![CDATA[Quando compramos&#160;um produto, contamos&#160;os dias para ele chegar em nossas mãos, não é mesmo? Para permitir que o consumidor acompanhe o andamento da sua&#160;encomenda e garantir que o produto chegue em perfeito estado,&#160;a empresa precisa investir no rastreio e na segurança da sua frota. Qual é a importância do rastreio de entregas? A competitividade no [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quando compramos&nbsp;um produto, contamos&nbsp;os dias para ele chegar em nossas mãos, não é mesmo? Para permitir que o consumidor acompanhe o andamento da sua&nbsp;encomenda e garantir que o produto chegue em perfeito estado,&nbsp;a empresa precisa investir no rastreio e na segurança da sua frota.</p>
+
+
+
+<h2>Qual é a importância do rastreio de entregas?</h2>
+
+
+
+<p>A competitividade no ramo dos transportes aumentou&nbsp;e, para se manterem ativas,&nbsp;as&nbsp;empresas devem&nbsp;<strong><a href="https://moveideias.com.br/inovacoes-na-logistica-e-transportes-que-podem-melhorar-sua-empresa/" target="_blank" rel="noreferrer noopener">apostar em inovação</a></strong>&nbsp;e alternativas que otimizem o relacionamento com seus consumidores.</p>
+
+
+
+<p>A tecnologia agora possibilita ao cliente saber tudo acerca de uma companhia antes de fechar negócio, e&nbsp;tudo isso pode ser feito facilmente por meio de seu smartphone. Por esse motivo, o consumidor&nbsp;também&nbsp;tem ficado cada vez mais criterioso.</p>
+
+
+
+<p>Para dar a experiência de compras que esse consumidor merece, a sua empresa também deve buscar o&nbsp;<strong><a href="https://moveideias.com.br/usando-tecnologia-ao-seu-favor-na-logistica" target="_blank" rel="noreferrer noopener">auxílio da tecnologia</a></strong>. Nesse contexto, o&nbsp;rastreio é a forma de demonstrar cuidado com a encomenda que seu cliente espera receber.</p>
+
+
+
+<h2>Como é o rastreio na prática?</h2>
+
+
+
+<p>Modernizando seu&nbsp;sistema de rastreamento, você pode acompanhar o andamento dos itens despachados em tempo real. A&nbsp;<strong><a href="https://moveideias.com.br/por-que-modernizar-o-sistema-de-entregas/" target="_blank" rel="noreferrer noopener">tecnologia de monitoramento</a></strong>&nbsp;garante que o produto está fazendo a rota adequada ao seu destino final, mas não só isso!</p>
+
+
+
+<p>Os melhores&nbsp;<strong><a href="https://moveideias.com.br/qual-importancia-da-automacao-no-processo-de-entrega-de-pedidos/" target="_blank" rel="noreferrer noopener">sistemas de rastreio notificam a empresa</a></strong>&nbsp;caso haja quaisquer avarias na mercadoria. A tecnologia ainda ajuda a manter a segurança dos seus colaboradores: se houver desvios no percurso ou problemas com o veículo, a companhia é notificada através do próprio sistema. Além disso, o automóvel pode ser desligado por comandos remotos, evitando extravios de carga.</p>
+
+
+
+<p>Tudo isso coopera para que os produtos cheguem dentro das normas protetivas e seguindo o padrão de qualidade que seu consumidor espera.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../qual-a-importancia-do-monitoramento-e-rastreamento/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
